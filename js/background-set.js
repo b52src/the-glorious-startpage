@@ -63,7 +63,7 @@ class BackgroundSet {
 		const hour = date.getHours();
 
 		if (hour >= 6 && hour < 12) {
-			this._lazyLoadBackground('morning');
+			this._lazyLoadBackground('morning01');
 
 		} else if (hour >= 12 && hour < 18 ) {
 			this._lazyLoadBackground('noon');
