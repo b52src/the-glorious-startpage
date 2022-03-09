@@ -66,10 +66,10 @@ class BackgroundSet {
 			this._lazyLoadBackground('morning01');
 
 		} else if (hour >= 12 && hour < 18 ) {
-			this._lazyLoadBackground('noon');
+			this._lazyLoadBackground('noon01');
 
 		} else {
-			this._lazyLoadBackground('evening');
+			this._lazyLoadBackground('evening01');
 		}
 	}
 }
