@@ -12,6 +12,9 @@ class Config {
 			'r/': {
 				urlPrefix: 'https://reddit.com/r/'
 			},
+			'ibm/': {
+				urlPrefix: 'https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fcloud.ibm.com%2Fdocs%2F+'
+			},
 			'w/': {
 				urlPrefix: 'https://wikipedia.org/wiki/'
 			},
