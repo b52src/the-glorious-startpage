@@ -49,7 +49,7 @@ class Config {
 			},
 			'searx': {
 				name: 'SearX',
-				prefix: 'https://searx.org/search?q=%s&categories=general'
+				prefix: 'https://searx.org/search?q='
 			},
 			'ecosia': {
 				name: 'Ecosia',
