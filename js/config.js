@@ -81,52 +81,10 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Unsplash',
-				icon: 'unsplash',
-				url: 'https://unsplash.com/',
-				category: 'design'
-			},
-			{
 				site: 'Discord',
 				icon: 'discord',
 				url: 'https://discord.com/',
 				category: 'social'
-			},
-			{
-				site: 'Stackoverflow',
-				icon: 'stackoverflow',
-				url: 'https://stackoverflow.com/',
-				category: 'development'
-			},
-			{
-				site: 'Stackexchange',
-				icon: 'stackexchange',
-				url: 'https://stackexchange.com/',
-				category: 'development'
-			},
-			{
-				site: 'Superuser',
-				icon: 'superuser',
-				url: 'https://superuser.com/',
-				category: 'development'
-			},
-			{
-				site: 'Calendar',
-				icon: 'calendar',
-				url: 'https://calendar.google.com/',
-				category: 'social'
-			},
-			{
-				site: 'Keycode',
-				icon: 'keycode',
-				url: 'https://keycode.info/',
-				category: 'development'
-			},
-			{
-				site: 'Amazon',
-				icon: 'amazon',
-				url: 'https://amazon.com/',
-				category: 'shop'
 			}
 		];
 
