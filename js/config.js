@@ -241,6 +241,16 @@ class Config {
 		// A list of websites that will be generated and put on the dock
 		const dockSites = [
 			{
+				site: 'Work Start',
+				icon: 'SL',
+				url: 'http://localhost:8123'
+			},
+			{
+				site: 'Orginizer',
+				icon: 'organizr',
+				url: 'http://192.168.86.44:5010'
+			},
+			{
 				site: 'Reddit',
 				icon: 'reddit',
 				url: 'https://reddit.com/'
