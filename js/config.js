@@ -81,39 +81,9 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Gmail',
-				icon: 'gmail',
-				url: 'https://mail.google.com/',
-				category: 'social'
-			},
-			{
-				site: 'Bitbucket',
-				icon: 'bitbucket',
-				url: 'https://bitbucket.org/',
-				category: 'development'
-			},
-			{
-				site: 'Deviantart',
-				icon: 'deviantart',
-				url: 'https://deviantart.com/',
-				category: 'design'
-			},
-			{
-				site: 'Duckduckgo',
-				icon: 'duckduckgo',
-				url: 'https://duckduckgo.com/',
-				category: 'development'
-			},
-			{
 				site: 'Ecosia',
 				icon: 'ecosia',
 				url: 'https://ecosia.org/',
-				category: 'search engine'
-			},
-			{
-				site: 'Google',
-				icon: 'google',
-				url: 'https://google.com/',
 				category: 'search engine'
 			},
 			{
@@ -129,41 +99,10 @@ class Config {
 				category: 'design'
 			},
 			{
-				site: 'Material.io',
-				icon: 'materialio',
-				url: 'https://material.io/',
-				category: 'design'
-			},
-			{
-				site: '4chan',
-				icon: '4chan',
-				url: 'https://4chan.org/',
-				category: 'social'
-			},
-			{
 				site: 'Discord',
 				icon: 'discord',
 				url: 'https://discord.com/',
 				category: 'social'
-			},
-
-			{
-				site: 'JSFiddle',
-				icon: 'jsfiddle',
-				url: 'https://jsfiddle.net/',
-				category: 'development'
-			},
-			{
-				site: 'ArchWiki',
-				icon: 'archwiki',
-				url: 'https://wiki.archlinux.org/',
-				category: 'information'
-			},
-			{
-				site: 'Figma',
-				icon: 'figma',
-				url: 'https://figma.com/',
-				category: 'design'
 			},
 			{
 				site: 'Stackoverflow',
@@ -190,30 +129,6 @@ class Config {
 				category: 'social'
 			},
 			{
-				site: 'Messenger',
-				icon: 'messenger',
-				url: 'https://messenger.com/',
-				category: 'social'
-			},
-			{
-				site: 'Icons8',
-				icon: 'icons8',
-				url: 'https://icons8.com/',
-				category: 'design'
-			},
-			{
-				site: 'Markdown Cheatsheet',
-				icon: 'markdown',
-				url: 'https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/',
-				category: 'development'
-			},
-			{
-				site: 'Interneting is Hard',
-				icon: 'interneting-is-hard',
-				url: 'https://internetingishard.com/',
-				category: 'development'
-			},
-			{
 				site: 'Keycode',
 				icon: 'keycode',
 				url: 'https://keycode.info/',
@@ -224,12 +139,6 @@ class Config {
 				icon: 'amazon',
 				url: 'https://amazon.com/',
 				category: 'shop'
-			},
-			{
-				site: 'Flaticon',
-				icon: 'flaticon',
-				url: 'https://flaticon.com/',
-				category: 'design'
 			}
 		];
 
@@ -264,11 +173,6 @@ class Config {
 				site: 'Gmail',
 				icon: 'gmail',
 				url: 'https://mail.google.com/'
-			},
-			{
-				site: 'Material.io',
-				icon: 'materialio',
-				url: 'https://material.io/'
 			}
 		];
 
