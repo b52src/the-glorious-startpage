@@ -81,18 +81,6 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Ecosia',
-				icon: 'ecosia',
-				url: 'https://ecosia.org/',
-				category: 'search engine'
-			},
-			{
-				site: 'Wikipedia',
-				icon: 'wikipedia',
-				url: 'https://wikipedia.org/',
-				category: 'information'
-			},
-			{
 				site: 'Unsplash',
 				icon: 'unsplash',
 				url: 'https://unsplash.com/',
