@@ -81,22 +81,10 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Facebook',
-				icon: 'facebook',
-				url: 'https://facebook.com/',
-				category: 'social'
-			},
-			{
 				site: 'Gmail',
 				icon: 'gmail',
 				url: 'https://mail.google.com/',
 				category: 'social'
-			},
-			{
-				site: 'Youtube',
-				icon: 'youtube',
-				url: 'https://youtube.com/',
-				category: 'media'
 			},
 			{
 				site: 'GDrive',
@@ -346,29 +334,9 @@ class Config {
 				url: 'https://github.com/'
 			},
 			{
-				site: 'Facebook',
-				icon: 'facebook',
-				url: 'https://facebook.com/'
-			},
-			{
 				site: 'Gmail',
 				icon: 'gmail',
 				url: 'https://mail.google.com/'
-			},
-			{
-				site: 'Youtube',
-				icon: 'youtube',
-				url: 'https://youtube.com/'
-			},
-			{
-				site: 'GDrive',
-				icon: 'gdrive',
-				url: 'https://drive.google.com/'
-			},
-			{
-				site: 'Twitter',
-				icon: 'twitter',
-				url: 'https://twitter.com/'
 			},
 			{
 				site: 'Material.io',
