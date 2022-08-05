@@ -87,33 +87,9 @@ class Config {
 				category: 'social'
 			},
 			{
-				site: 'GDrive',
-				icon: 'gdrive',
-				url: 'https://drive.google.com/',
-				category: 'cloud'
-			},
-			{
-				site: 'Twitter',
-				icon: 'twitter',
-				url: 'https://twitter.com/',
-				category: 'social'
-			},
-			{
-				site: 'Instagram',
-				icon: 'instagram',
-				url: 'https://instagram.com/',
-				category: 'social'
-			},
-			{
 				site: 'Bitbucket',
 				icon: 'bitbucket',
 				url: 'https://bitbucket.org/',
-				category: 'development'
-			},
-			{
-				site: 'Gitlab',
-				icon: 'gitlab',
-				url: 'https://gitlab.com/',
 				category: 'development'
 			},
 			{
@@ -153,34 +129,10 @@ class Config {
 				category: 'design'
 			},
 			{
-				site: 'Twitch',
-				icon: 'twitch',
-				url: 'https://twitch.tv/',
-				category: 'media'
-			},
-			{
-				site: 'Yahoo',
-				icon: 'yahoo',
-				url: 'https://mail.yahoo.com/',
-				category: 'social'
-			},
-			{
 				site: 'Material.io',
 				icon: 'materialio',
 				url: 'https://material.io/',
 				category: 'design'
-			},
-			{
-				site: 'Netflix',
-				icon: 'netflix',
-				url: 'https://netflix.com/',
-				category: 'media'
-			},
-			{
-				site: 'Office 365',
-				icon: 'office365',
-				url: 'https://office.com/',
-				category: 'information'
 			},
 			{
 				site: '4chan',
@@ -194,18 +146,7 @@ class Config {
 				url: 'https://discord.com/',
 				category: 'social'
 			},
-			{
-				site: 'Spotify',
-				icon: 'spotify',
-				url: 'https://spotify.com/',
-				category: 'media'
-			},
-			{
-				site: 'Ebay',
-				icon: 'ebay',
-				url: 'https://ebay.com/',
-				category: 'shop'
-			},
+
 			{
 				site: 'JSFiddle',
 				icon: 'jsfiddle',
@@ -279,12 +220,6 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Soundcloud',
-				icon: 'soundcloud',
-				url: 'https://soundcloud.com/',
-				category: 'media'
-			},
-			{
 				site: 'Amazon',
 				icon: 'amazon',
 				url: 'https://amazon.com/',
@@ -295,24 +230,6 @@ class Config {
 				icon: 'flaticon',
 				url: 'https://flaticon.com/',
 				category: 'design'
-			},
-			{
-				site: 'Wikimedia Commons',
-				icon: 'commons',
-				url: 'https://commons.wikimedia.org/',
-				category: 'design'
-			},
-			{
-				site: 'MEGA',
-				icon: 'mega',
-				url: 'https://mega.nz/',
-				category: 'cloud'
-			},
-			{
-				site: 'MDN Web Docs',
-				icon: 'mdn',
-				url: 'https://developer.mozilla.org/',
-				category: 'development'
 			}
 		];
 
