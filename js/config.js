@@ -81,6 +81,12 @@ class Config {
 				category: 'development'
 			},
 			{
+				site: 'StartPage Config',
+				icon: 'github',
+				url: 'https://github.com/b52src/the-glorious-startpage',
+				category: 'development'
+			},
+			{
 				site: 'Discord',
 				icon: 'discord',
 				url: 'https://discord.com/',
