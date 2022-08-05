@@ -47,6 +47,10 @@ class Config {
 				name: 'Duckduckgo',
 				prefix: 'https://duckduckgo.com/?q='
 			},
+			'searx': {
+				name: 'SearX',
+				prefix: 'https://searx.org/search?q=%s&categories=general'
+			},
 			'ecosia': {
 				name: 'Ecosia',
 				prefix: 'https://www.ecosia.org/search?q='
