@@ -24,9 +24,6 @@ class Config {
 			'a/': {
 				urlPrefix: 'https://amazon.com/s?k='	
 			},
-			'e/': {
-				urlPrefix: 'https://ebay.com/sch/?_nkw='
-			},
 			'y/': {
 				urlPrefix: 'https://youtube.com/results?search_query='
 			}
